@@ -1,0 +1,31 @@
+complaint_id,complaint_text
+1,My order was supposed to arrive yesterday but it is still not delivered and tracking is not updated
+2,The product arrived broken and the packaging was damaged
+3,I was charged twice for the same order and no refund has been issued
+4,The delivery was delayed by five days without any notification
+5,I received the wrong item instead of what I ordered
+6,The app crashes every time I try to make a payment
+7,My refund has been pending for two weeks after cancellation
+8,The product quality is very poor and looks used
+9,The order status shows delivered but I never received the package
+10,I was billed even after cancelling my subscription
+11,Customer support is not responding to my complaint emails
+12,The product stopped working within two days of delivery
+13,I received an incomplete order with missing items
+14,Payment failed but the amount was deducted from my account
+15,The delivery agent marked the order as delivered without calling me
+16,I want to return the product but the return option is not available in the app
+17,The size of the product is completely different from what was mentioned
+18,I am unable to apply the discount coupon at checkout
+19,The refund amount credited is less than what I paid
+20,The website is very slow and pages are not loading properly
+21,I received a damaged product and customer care refused replacement
+22,My order has been stuck in transit for several days
+23,The app logs me out automatically while placing an order
+24,I was promised same day delivery but it arrived late
+25,The product description is misleading and inaccurate
+26,I cancelled my order but it still got delivered
+27,The payment page freezes and does not proceed further
+28,I was charged delivery fees even though free delivery was promised
+29,The tracking information has not been updated for days
+30,I received someone else’s order instead of mine
